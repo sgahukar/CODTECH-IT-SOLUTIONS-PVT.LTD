@@ -140,9 +140,6 @@ Build a **Recommendation System** using **Collaborative Filtering or Matrix Fact
 
 ---
 
-
----
-
 # Conclusion
 
 These tasks demonstrate the practical implementation of **Machine Learning, Natural Language Processing, Deep Learning, and Recommendation Systems**.  
